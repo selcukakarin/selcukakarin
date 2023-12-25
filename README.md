@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;4%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=ec597e&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;4%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 
@@ -18,7 +18,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/N2DCZyfp" target="_blank"><img width="32px" src="https://i.imgur.com/OViZO8J.png"  alt="Discord" title="Dev Pro Tips Discord Server"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@selcukakarin" target="_blank"><img width="32px" alt="medium" title="SelcukAkarin medium" src="https://i.imgur.com/PHl0Hyf.png"></a>
+  <a href="https://medium.com/@selcukakarin" target="_blank"><img width="32px" alt="medium" title="SelcukAkarin medium" src="https://i.imgur.com/pehvUkR.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://patreon.com/user?u=111291734&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link" target="_blank"><img width="32px" alt="Patreon" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
