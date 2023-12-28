@@ -47,9 +47,6 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <div align=center>
   
 **Frontend Tech-Stack:**
@@ -108,7 +105,7 @@ me.say_hi()
   <h3>🔥 Streak Stats</h3>
 
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="">
       <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="selcukakarin's streak" src="https://streak-stats.demolab.com/?user=selcukakarin&theme=monokai-metallian&hide_border=true"/>
     </a>
    
@@ -133,7 +130,6 @@ me.say_hi()
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="center">
     <a href="django_projects" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=selcukakarin&repo=django_projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/selcukakarin/python_101" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=selcukakarin&repo=python_101&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
