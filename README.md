@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/selcukakarin" target="_blank" >
-   <img src="https://i.imgur.com/SsDqtUV.png" title="source: imgur.com" width="200" /></a>
+   <img src="https://i.imgur.com/nIloTJ8.png" title="source: imgur.com" width="200" /></a>
 </p>
 
 <p align="center">
